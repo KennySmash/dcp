@@ -3,7 +3,7 @@
 **A modern, secure, and truly decentralized communication protocol designed for the web**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Protocol Version](https://img.shields.io/badge/Protocol-v1.1-blue.svg)](./specification/)
+[![Protocol Version](https://img.shields.io/badge/Protocol-v1.0-blue.svg)](./specification/)
 [![Status](https://img.shields.io/badge/Status-Draft-orange.svg)]()
 
 ## Overview
